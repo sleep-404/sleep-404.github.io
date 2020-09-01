@@ -8,35 +8,33 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Jeevan (a.k.a sleep-404)                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Otaku with super powers  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  blog about random stufff
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://sleep-404.github.io'
 
-author: your_full_name                  # change to your full name
+author: Jeevan Kumar                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/avatar.jpeg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: sleep-404             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Jeevan                  # it will shows as the copyright owner in Footer
+  email: justjeevan07@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://github.com/sleep-404       # change to your github homepage
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -51,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
