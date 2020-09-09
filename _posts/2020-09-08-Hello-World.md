@@ -1,7 +1,7 @@
 ---
 title: Hello World !
 author: Jeevan
-date: 2020-08-09
+date: 2020-09-08
 categories: [Blog]
 tags: [intro]
 image: /assets/img/sample/devices-mockup.png

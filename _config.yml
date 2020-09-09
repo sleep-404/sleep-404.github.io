@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Jeevan (a.k.a sleep-404)                          # the main title
+title: Jeevan (a.k.a sleep-404)                         # the main title
 
-tagline: Otaku with super powers  # it will display as the sub-title
+tagline: Otaku with super powers !  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   blog about random stufff
