@@ -32,4 +32,4 @@
   name: "Resume"
   icon: "fas fa-file"
   path: tabs
-  url: ${path.home}/../../assets/documents/Jeevan_SWE.pdf
+  url: resume
