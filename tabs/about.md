@@ -15,8 +15,7 @@ Have built products using cloud technologies of AWS like Amplify, Lambda, Dynamo
 Cognito and many others, combined with Node.js, Javascript and Python. That being
 said, have also done hardcore software development using C++, and yes, OOPs was
 used. My knowledge on algorithms and data structures is excellent as well, though
-little rusty, starting today(09-09-2020), I am on full throttle mode to get that
-rust nuked !
+little rusty.
 
 My field of interest is Deep Learning. I have done quite a few course
 both at IIT-Kanpur and from online. But what sets apart is, my enthusiasm towards
