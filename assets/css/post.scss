@@ -21,6 +21,11 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
   }
 }
 
+body{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 @mixin btn-post-nav {
   width: 50%;
   position: relative;
