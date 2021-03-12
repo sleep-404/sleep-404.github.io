@@ -1,7 +1,7 @@
 ---
 title: Lucky Coincidence ?!
 author: Jeevan
-date: 2021-01-18
+date: 2021-03-12
 categories: [Blog]
 tags: [realization,life,valorant]
 image: /assets/img/Naruto.jpg
