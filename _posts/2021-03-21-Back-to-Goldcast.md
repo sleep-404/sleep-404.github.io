@@ -1,7 +1,7 @@
 ---
 title: Back to Goldcast 
 author: Jeevan
-date: 2021-03-22
+date: 2021-03-21
 categories: [Blog]
 tags: [internship, interview]
 ---
