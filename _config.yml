@@ -1,0 +1,16 @@
+title: 'Jeevan'
+description: "Mango"
+baseurl: ""
+url: ""
+
+header_pages:
+  - index.md
+  - about.md
+  # - contact.md
+
+style: dark
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-console

@@ -33,6 +33,11 @@ GEM
       webrick (~> 1.7)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
+    jekyll-theme-console (0.4.0)
+      jekyll (>= 3.5)
+      jekyll-seo-tag
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -64,7 +69,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll
+  jekyll-theme-console
 
 BUNDLED WITH
    2.4.13
