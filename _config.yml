@@ -13,5 +13,5 @@ style: dark
 
 # Build settings
 markdown: kramdown
-remote_theme: sleep-404/dark-theme-for-jekyll
+# remote_theme: sleep-404/dark-theme-for-jekyll
 # theme: jekyll-theme-console
