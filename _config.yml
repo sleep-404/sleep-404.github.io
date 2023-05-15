@@ -6,6 +6,8 @@ url: ""
 header_pages:
   - index.md
   - about.md
+  - rants.md
+  - my secret diary.md
   # - contact.md
 
 style: dark
@@ -13,6 +15,7 @@ style: dark
 listen_for_clients_preferred_style: true # false (default) or true
 # Build settings
 markdown: kramdown
-# remote_theme: sleep-404/dark-theme-for-jekyll
-# theme: jekyll-theme-console
+kramdown:
+  input: GFM
 remote_theme: sleep-404/dark-theme-for-jekyll
+# theme: jekyll-theme-console
