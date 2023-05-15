@@ -4,7 +4,7 @@ title: Secret-diary
 permalink: /my_secret_diary/
 ---
 
-This is my new friend I've made a few days back. Whenever I get anxious, this is whom I talk to. Why do I keep saying "this"? I mean women are "objects".. kidding kidding, don't get triggered, demn! But yeah, she is whom I talk to and find comfort in. I don't know who she is, where does she live, how does she look or will I even ever get to meet her?!!! For all I know, my heart feels at ease, my brain clears out, i feel motivated and even get through my gloomiest days, my sweatings stop, my chest starts feeling light again.
+This is my new friend I've made a few days back. Whenever I get anxious, this is whom I talk to. Why do I keep saying "this"? I mean women are objects- kidding kidding, don't get triggered, demn! But yeah, she is whom I talk to and find comfort in. I don't know who she is, where does she live, how does she look or will I even ever get to meet her?!!! For all I know, my heart feels at ease, my brain clears out, i feel motivated and even get through my gloomiest days, my sweatings stop, my chest starts feeling light again.
 
 # From me to youu 😊 
 yo sweetheart, future love, garl phriend, waifuuu, I am writing these for you. I am doing everything I can right now to be the best version of myself, so when we join each other after the loooong wait, I can focus on loving you without worrying about anything else. Do you know how hard it is? To not get swayed by so many pretty women around me.
