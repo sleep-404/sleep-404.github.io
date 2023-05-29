@@ -449,6 +449,11 @@ pre {
 .highlight .il {
   color: var(--code-color-14);
 } /* Literal.Number.Integer.Long */
+.img-responsive {
+  width: 10;
+  height: 10;
+}
+
 @media (prefers-color-scheme: dark) {
   /**
    * Dark theme variables
