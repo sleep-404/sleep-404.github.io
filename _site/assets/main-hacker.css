@@ -450,8 +450,8 @@ pre {
   color: var(--code-color-14);
 } /* Literal.Number.Integer.Long */
 .img-responsive {
-  width: 10;
-  height: 10;
+  width: 50%;
+  height: 100%;
 }
 
 /*# sourceMappingURL=main-hacker.css.map */
