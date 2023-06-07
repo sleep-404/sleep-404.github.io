@@ -7,7 +7,7 @@ permalink: /rants/
 # My daily rants 
 -
 What's the point of putting serums, body-butter, eye-cream etc when EOD you gonna sweat like pig and let it all go away. dang it. Went out only for 40 mins and this happened.
-**12:40 IST 07 June**
+**12:40 PM IST 07 June 2023**
 
 I have no clue from when did I lose tolerance to junk food. Every time I try something shitty they end up showing on my face the very next day :( There was a time when I used to gobble this crap almost every other day.
 **06:35 AM IST 03 June 2023**
