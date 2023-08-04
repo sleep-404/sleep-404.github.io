@@ -6,6 +6,10 @@ permalink: /rants/
 
 # My daily rants 
 -
+Finally some "ache din" after a year long wait. Zomato share price are shooting up, wohooo!!!
+**10:20 PM IST 04 August 2023**
+
+
 What's the point of putting serums, body-butter, eye-cream etc when EOD you gonna sweat like pig and let it all go away. dang it. Went out only for 40 mins and this happened.
 **12:40 PM IST 07 June 2023**
 
