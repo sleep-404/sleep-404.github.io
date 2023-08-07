@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # About me
-An average looking thin 23 years old human who identifies himself as male. You can call me Isshiki. Ever since I graduated I have been living with my parents, which is like for the past 3 years. I tried moving out and lived in Banglore for about 6 months but hated it to the core, lol. I'll be moving out soooon but not really sure where will I go this time. While I figure that out, here are a few other things about meee.
+An average looking thin 24 years old human who identifies himself as male. You can call me Isshiki. Ever since I graduated I have been living with my parents, which is like for the past 3 years. I tried moving out and lived in Banglore for about 6 months but hated it to the core, lol. I'll be moving out soooon but not really sure where will I go this time. While I figure that out, here are a few other things about meee.
 
 I don't really enjoy hanging out with the crowd. Not that I hate it, but, um.. you see I prefer having looong 1-1 or talks with a small group. I don't drink, smoke or have been to a club ever in my life. No, there is nothing wrong with any of them but it's just I'm kinda fragile and my body can't keep up, lol.
 
