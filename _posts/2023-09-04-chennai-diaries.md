@@ -5,7 +5,7 @@ date:   2023-09-04 09:26:45 +0530
 categories:
 ---
 
-# Madras Diaries
+# Madras Diaries  
 
 This impromptu trip is one of the best thing that has happend to me this year. It reminded me of how lucky I am to be blessed with such an amazing friends. You know, some bonds once formed would not require any further investment of your time or energy, even if you had not talked for months or haven't met for years, the moment you meet them, you can start conversing as if you have been in touch with them all the while. Although I don't have many of them, I sure am super thankful for the ones I have got.  
 
