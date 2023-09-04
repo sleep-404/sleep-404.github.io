@@ -5,6 +5,7 @@ date:   2023-09-04 09:26:45 +0530
 categories:
 ---
 
+# Madras Diaries
 
 This impromptu trip is one of the best thing that has happend to me this year. It reminded me of how lucky I am to be blessed with such an amazing friends. You know, some bonds once formed would not require any further investment of your time or energy, even if you had not talked for months or haven't met for years, the moment you meet them, you can start conversing as if you have been in touch with them all the while. Although I don't have many of them, I sure am super thankful for the ones I have got.  
 
@@ -16,9 +17,9 @@ Few hours in, I dozed off but.. my friends, they would keep looking out for chem
 
 Most of these things might seem trivial but they mean the world to me. It's the actions that speak for themselves, louder than the words. Quoting a few lines from one of my fav songs *Waqt ki Baatein*
 
-> Jaane do jo ja chuka hai
-> Kaun kab kahan ruka hai
-> Baat ye fizool hai
-> Inhe bhool jaane do
+> *Jaane do jo ja chuka hai*
+> *Kaun kab kahan ruka hai*
+> *Baat ye fizool hai*
+> *Inhe bhool jaane do*
 
 My friends make sure that the above lines are never true for me.
