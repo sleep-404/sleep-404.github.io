@@ -7,7 +7,7 @@ header_pages:
   - index.md
   - about.md
   - rants.md
-  - my secret diary.md
+  # - my secret diary.md
   # - contact.md
 
 style: dark
