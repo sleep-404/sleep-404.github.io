@@ -15,7 +15,3 @@ I sooo much want to talk to people but can't even utter a single word by myself,
 
 # My playlist
 Songs are sooo beautiful. They help you convey everything that's in your brain & heart but not able to describe or put into words. Sharing a playlist is kinda an intimate thing for me, as it gives a sneak peak into one's life. If I start sharing songs with you, then it means we have established a bond where I feel comfortable around yaa. If you are reading this, then, either you've found this site yourself or i've shared it with youu, in either case, i appreciate you taking your time.. so here's [my playlist](https://open.spotify.com/playlist/6KHBPAYBG4S6aftlgAOZBC?si=ecdaf6d4f4ae489d) 😁
-
-fyi this is me 
-![Isshikii](/assets/img/profile_pic.jpeg){:class="img-responsive"} 
-
