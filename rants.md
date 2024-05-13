@@ -6,6 +6,9 @@ permalink: /rants/
 
 # My daily rants 
 -
+I am going to move forward. Ain't looking back anymore 💪
+**09:00 AM IST 12 May 2024**
+
 Finally some "ache din" after a year long wait. Zomato share price are shooting up, wohooo!!!
 **10:20 PM IST 04 August 2023**
 
